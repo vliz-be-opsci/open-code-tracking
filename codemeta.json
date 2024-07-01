@@ -1,0 +1,68 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "{id of the GitHub repo (can be DOI)}",
+  "description": "{short description of the GitHub repository}",
+  "name": "{name of the GitHub repository}",
+  "codeRepository": "{url of the GitHub repository}",
+  "issueTracker": "{url of issuetracker of the GitHub repository}",
+  "license": "{license of the GitHub repository}",
+  "version": "{version of the GitHub repository}",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "{name (e.g. R, python, ...}",
+    "url": "{general info site of the programming language}"
+  },
+  "runtimePlatform": "{name of the runtimePlatform on which the code runs}",
+  "provider": {
+    "@id": "https://ror.org/{ROR-ID}",
+    "@type": "Organization",
+    "name": "{name}",
+    "url": "{website of organization}"
+  },
+  "contributor": [
+    {
+      "@type": "Person",
+      "givenName": "{first name}",
+      "familyName": "{last name}",
+      "email": "{(work) email}",
+      "@id": "https://orcid.org/{OrcID}"
+    }
+  ],
+  "copyrightHolder": [
+    {
+      "@type": "Person",
+      "givenName": "{first name}",
+      "familyName": "{last name}",
+      "email": "{(work) email}",
+      "@id": "https://orcid.org/{OrcID}"
+    }
+  ],
+  "funder": [
+    {
+      "@type": "Organization",
+      "@id": "https://ror.org/{ROR-ID}",
+      "name": "{name}"
+    }
+  ],
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "{first name}",
+      "familyName": "{last name}",
+      "email": "{email}",
+      "@id": "https://orcid.org/{OrcID}"
+    }
+  ],
+  "softwareRequirements": {
+    "1": {
+      "@type": "SoftwareApplication",
+      "identifier": "{id}",
+      "name": "{name}",
+      "version": "{version}"
+    }
+  },
+  "isPartOf": "{link of other things this repository is part of (e.g. GitHub repo, workflows, datasets, ...}",
+  "keywords": ["{keyword}", "{keyword}", "..."],
+  "readme": "{link to the README file in the GitHub repository}"
+}
