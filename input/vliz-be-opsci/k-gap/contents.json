@@ -1,0 +1,226 @@
+[
+    {
+        "name": ".gitattributes",
+        "path": ".gitattributes",
+        "sha": "f6bb24dcec87e467efc61a3df26eb65f342fbf18",
+        "size": 49,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.gitattributes?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/.gitattributes",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/f6bb24dcec87e467efc61a3df26eb65f342fbf18",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/.gitattributes",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.gitattributes?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/f6bb24dcec87e467efc61a3df26eb65f342fbf18",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/.gitattributes"
+        }
+    },
+    {
+        "name": ".github",
+        "path": ".github",
+        "sha": "e0d196ebba7cfb34b265f117ddb5f65be06b7f49",
+        "size": 0,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.github?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/tree/main/.github",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/e0d196ebba7cfb34b265f117ddb5f65be06b7f49",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.github?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/e0d196ebba7cfb34b265f117ddb5f65be06b7f49",
+            "html": "https://github.com/vliz-be-opsci/k-gap/tree/main/.github"
+        }
+    },
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "0b40a0392ca4f83fbf6ea43830f57db6c93f8617",
+        "size": 21,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/0b40a0392ca4f83fbf6ea43830f57db6c93f8617",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/.gitignore",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/0b40a0392ca4f83fbf6ea43830f57db6c93f8617",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "LICENSE",
+        "path": "LICENSE",
+        "sha": "958b4b83d3fdcd580ea0fb68c68c88fc64870ffa",
+        "size": 1070,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/LICENSE?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/LICENSE",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/958b4b83d3fdcd580ea0fb68c68c88fc64870ffa",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/LICENSE",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/LICENSE?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/958b4b83d3fdcd580ea0fb68c68c88fc64870ffa",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/LICENSE"
+        }
+    },
+    {
+        "name": "Makefile",
+        "path": "Makefile",
+        "sha": "92bd63397699e7a78ae9a5e2090cfd76ffaadb79",
+        "size": 2529,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/Makefile?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/Makefile",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/92bd63397699e7a78ae9a5e2090cfd76ffaadb79",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/Makefile",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/Makefile?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/92bd63397699e7a78ae9a5e2090cfd76ffaadb79",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/Makefile"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "9166219c22783ff22a058d88ec3436b10fdceb5b",
+        "size": 590,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/README.md?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/9166219c22783ff22a058d88ec3436b10fdceb5b",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/README.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/9166219c22783ff22a058d88ec3436b10fdceb5b",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/README.md"
+        }
+    },
+    {
+        "name": "docker-compose.yml",
+        "path": "docker-compose.yml",
+        "sha": "5774079d911f83d85b5b4a3f8bcd467922a64f97",
+        "size": 2102,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker-compose.yml?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker-compose.yml",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/5774079d911f83d85b5b4a3f8bcd467922a64f97",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/docker-compose.yml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker-compose.yml?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/5774079d911f83d85b5b4a3f8bcd467922a64f97",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker-compose.yml"
+        }
+    },
+    {
+        "name": "docker_clean.sh",
+        "path": "docker_clean.sh",
+        "sha": "940a81a8e7c180df3e6352d3b179e23bdbf92123",
+        "size": 1823,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker_clean.sh?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker_clean.sh",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/940a81a8e7c180df3e6352d3b179e23bdbf92123",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/docker_clean.sh",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker_clean.sh?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/940a81a8e7c180df3e6352d3b179e23bdbf92123",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker_clean.sh"
+        }
+    },
+    {
+        "name": "docker_info.sh",
+        "path": "docker_info.sh",
+        "sha": "d79f6e8486b3a06b43191a7a5ae35f37ff57b3c0",
+        "size": 907,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker_info.sh?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker_info.sh",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/d79f6e8486b3a06b43191a7a5ae35f37ff57b3c0",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/docker_info.sh",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/docker_info.sh?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/d79f6e8486b3a06b43191a7a5ae35f37ff57b3c0",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/docker_info.sh"
+        }
+    },
+    {
+        "name": "dotenv-example",
+        "path": "dotenv-example",
+        "sha": "a17751c82712d98f90fc705a4b32b4ffdd98c6a5",
+        "size": 504,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/dotenv-example?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/dotenv-example",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/a17751c82712d98f90fc705a4b32b4ffdd98c6a5",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/dotenv-example",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/dotenv-example?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/a17751c82712d98f90fc705a4b32b4ffdd98c6a5",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/dotenv-example"
+        }
+    },
+    {
+        "name": "graphdb",
+        "path": "graphdb",
+        "sha": "f648540f5c816ac6f7e4a9a901fbf1e0aae5986f",
+        "size": 0,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/graphdb?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/tree/main/graphdb",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/f648540f5c816ac6f7e4a9a901fbf1e0aae5986f",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/graphdb?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/f648540f5c816ac6f7e4a9a901fbf1e0aae5986f",
+            "html": "https://github.com/vliz-be-opsci/k-gap/tree/main/graphdb"
+        }
+    },
+    {
+        "name": "jupyter",
+        "path": "jupyter",
+        "sha": "f0d7e7917d29c692cdd356be55a1f1a4e6fc0741",
+        "size": 0,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/jupyter?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/tree/main/jupyter",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/f0d7e7917d29c692cdd356be55a1f1a4e6fc0741",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/jupyter?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/f0d7e7917d29c692cdd356be55a1f1a4e6fc0741",
+            "html": "https://github.com/vliz-be-opsci/k-gap/tree/main/jupyter"
+        }
+    },
+    {
+        "name": "jupyter_url.sh",
+        "path": "jupyter_url.sh",
+        "sha": "3e621e30240dec070f9068a05dae5963d8361f2c",
+        "size": 156,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/jupyter_url.sh?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/blob/main/jupyter_url.sh",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/3e621e30240dec070f9068a05dae5963d8361f2c",
+        "download_url": "https://raw.githubusercontent.com/vliz-be-opsci/k-gap/main/jupyter_url.sh",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/jupyter_url.sh?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/blobs/3e621e30240dec070f9068a05dae5963d8361f2c",
+            "html": "https://github.com/vliz-be-opsci/k-gap/blob/main/jupyter_url.sh"
+        }
+    },
+    {
+        "name": "sembench",
+        "path": "sembench",
+        "sha": "3a6a88c8adb88a60d16cb39668e89a94765bafd0",
+        "size": 0,
+        "url": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/sembench?ref=main",
+        "html_url": "https://github.com/vliz-be-opsci/k-gap/tree/main/sembench",
+        "git_url": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/3a6a88c8adb88a60d16cb39668e89a94765bafd0",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/vliz-be-opsci/k-gap/contents/sembench?ref=main",
+            "git": "https://api.github.com/repos/vliz-be-opsci/k-gap/git/trees/3a6a88c8adb88a60d16cb39668e89a94765bafd0",
+            "html": "https://github.com/vliz-be-opsci/k-gap/tree/main/sembench"
+        }
+    }
+]
