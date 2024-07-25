@@ -3,6 +3,7 @@ import json
 import base64
 import os
 import logging
+import yaml
 
 # Configure logging
 logging.basicConfig(level=logging.INFO,
@@ -95,8 +96,19 @@ def generate_input(repo_owner:str, repo_name:str) -> None:
                 json.dump(response.json(), json_file, indent=4)
 
 
-#Set variables
-repo_owner = "vliz-be-opsci"
-repo_name = "k-gap"
+#Get information repositories from repo listing the open-code-repositories 
+response = requests.get("https://api.github.com/repos/vliz-be-opsci/open-code-list/contents")
 
-generate_input(repo_owner, repo_name)
+if response.status_code == 200:
+    for item in response.json():
+        for k,v in item.items():
+            if k == "download_url":
+                response = requests.get(v)
+                response.raise_for_status()  # Raise an exception for HTTP errors
+                # Load the YAML content
+                open_code_repos = yaml.safe_load(response.text)
+
+for repo in open_code_repos:
+    repo_name = repo['name']
+    repo_owner = repo['owner']
+    generate_input(repo_owner, repo_name)

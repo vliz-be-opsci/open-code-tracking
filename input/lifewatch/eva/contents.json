@@ -1,0 +1,82 @@
+[
+    {
+        "name": "EVA_phase1_preprocessing_EUSeaMap",
+        "path": "EVA_phase1_preprocessing_EUSeaMap",
+        "sha": "3e8fb9471df504c5f285b3822caa51b62e68c21a",
+        "size": 0,
+        "url": "https://api.github.com/repos/lifewatch/eva/contents/EVA_phase1_preprocessing_EUSeaMap?ref=main",
+        "html_url": "https://github.com/lifewatch/eva/tree/main/EVA_phase1_preprocessing_EUSeaMap",
+        "git_url": "https://api.github.com/repos/lifewatch/eva/git/trees/3e8fb9471df504c5f285b3822caa51b62e68c21a",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/lifewatch/eva/contents/EVA_phase1_preprocessing_EUSeaMap?ref=main",
+            "git": "https://api.github.com/repos/lifewatch/eva/git/trees/3e8fb9471df504c5f285b3822caa51b62e68c21a",
+            "html": "https://github.com/lifewatch/eva/tree/main/EVA_phase1_preprocessing_EUSeaMap"
+        }
+    },
+    {
+        "name": "EVA_phase2_assessment",
+        "path": "EVA_phase2_assessment",
+        "sha": "c11b0d8e291f6d812aaf7cb4b5b81116866e057f",
+        "size": 0,
+        "url": "https://api.github.com/repos/lifewatch/eva/contents/EVA_phase2_assessment?ref=main",
+        "html_url": "https://github.com/lifewatch/eva/tree/main/EVA_phase2_assessment",
+        "git_url": "https://api.github.com/repos/lifewatch/eva/git/trees/c11b0d8e291f6d812aaf7cb4b5b81116866e057f",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/lifewatch/eva/contents/EVA_phase2_assessment?ref=main",
+            "git": "https://api.github.com/repos/lifewatch/eva/git/trees/c11b0d8e291f6d812aaf7cb4b5b81116866e057f",
+            "html": "https://github.com/lifewatch/eva/tree/main/EVA_phase2_assessment"
+        }
+    },
+    {
+        "name": "Readme.md",
+        "path": "Readme.md",
+        "sha": "9b0560fa0cf94114847c5943c862403a0ac6f445",
+        "size": 629,
+        "url": "https://api.github.com/repos/lifewatch/eva/contents/Readme.md?ref=main",
+        "html_url": "https://github.com/lifewatch/eva/blob/main/Readme.md",
+        "git_url": "https://api.github.com/repos/lifewatch/eva/git/blobs/9b0560fa0cf94114847c5943c862403a0ac6f445",
+        "download_url": "https://raw.githubusercontent.com/lifewatch/eva/main/Readme.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/lifewatch/eva/contents/Readme.md?ref=main",
+            "git": "https://api.github.com/repos/lifewatch/eva/git/blobs/9b0560fa0cf94114847c5943c862403a0ac6f445",
+            "html": "https://github.com/lifewatch/eva/blob/main/Readme.md"
+        }
+    },
+    {
+        "name": "codemeta.json",
+        "path": "codemeta.json",
+        "sha": "1c1f35ca538e87ef533a6d5b9746530dec10b631",
+        "size": 5090,
+        "url": "https://api.github.com/repos/lifewatch/eva/contents/codemeta.json?ref=main",
+        "html_url": "https://github.com/lifewatch/eva/blob/main/codemeta.json",
+        "git_url": "https://api.github.com/repos/lifewatch/eva/git/blobs/1c1f35ca538e87ef533a6d5b9746530dec10b631",
+        "download_url": "https://raw.githubusercontent.com/lifewatch/eva/main/codemeta.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/lifewatch/eva/contents/codemeta.json?ref=main",
+            "git": "https://api.github.com/repos/lifewatch/eva/git/blobs/1c1f35ca538e87ef533a6d5b9746530dec10b631",
+            "html": "https://github.com/lifewatch/eva/blob/main/codemeta.json"
+        }
+    },
+    {
+        "name": "license.txt",
+        "path": "license.txt",
+        "sha": "5d68a372fd18c279e5c3c2f928952ecd0efde8bb",
+        "size": 1066,
+        "url": "https://api.github.com/repos/lifewatch/eva/contents/license.txt?ref=main",
+        "html_url": "https://github.com/lifewatch/eva/blob/main/license.txt",
+        "git_url": "https://api.github.com/repos/lifewatch/eva/git/blobs/5d68a372fd18c279e5c3c2f928952ecd0efde8bb",
+        "download_url": "https://raw.githubusercontent.com/lifewatch/eva/main/license.txt",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/lifewatch/eva/contents/license.txt?ref=main",
+            "git": "https://api.github.com/repos/lifewatch/eva/git/blobs/5d68a372fd18c279e5c3c2f928952ecd0efde8bb",
+            "html": "https://github.com/lifewatch/eva/blob/main/license.txt"
+        }
+    }
+]
