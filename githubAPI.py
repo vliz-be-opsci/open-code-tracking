@@ -61,7 +61,7 @@ def request_info(repo_owner, repo_name, path):
         return None
 
 
-def generate_input(repo_owner:str, repo_name:str) -> None:
+def gitHubInfo(repo_owner:str, repo_name:str) -> None:
     
     """Function to retrieve various information for a specified GitHub-repository 
     & (for now) write it to json files"""
@@ -94,21 +94,3 @@ def generate_input(repo_owner:str, repo_name:str) -> None:
             logger.info(response.json())
             with open(f'./input/{repo_owner}/{repo_name}/{k}.json', 'w') as json_file:
                 json.dump(response.json(), json_file, indent=4)
-
-
-#Get information repositories from repo listing the open-code-repositories 
-response = requests.get("https://api.github.com/repos/vliz-be-opsci/open-code-list/contents")
-
-if response.status_code == 200:
-    for item in response.json():
-        for k,v in item.items():
-            if k == "download_url":
-                response = requests.get(v)
-                response.raise_for_status()  # Raise an exception for HTTP errors
-                # Load the YAML content
-                open_code_repos = yaml.safe_load(response.text)
-
-for repo in open_code_repos:
-    repo_name = repo['name']
-    repo_owner = repo['owner']
-    generate_input(repo_owner, repo_name)
