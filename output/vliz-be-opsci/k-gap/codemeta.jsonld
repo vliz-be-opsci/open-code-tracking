@@ -9,14 +9,11 @@
   "codeRepository": "https://github.com/vliz-be-opsci/k-gap",
   "readme": "https://github.com/vliz-be-opsci/k-gap/blob/main/README.md",
   "license": "https://api.github.com/licenses/mit",
-
   "issueTracker": "https://api.github.com/repos/vliz-be-opsci/k-gap/issues{/number}",
 
   "programmingLanguage": [
     {'Shell': 6169, 'Makefile': 2529, 'Python': 1690, 'Dockerfile': 693, 'Jupyter Notebook': 298}
   ],
-  
-  "version": "",
   "runtimePlatform": "",
   
   "contributor": [
@@ -95,6 +92,8 @@
       "sameAs": ""
     }
   ],
+  
+  
   "softwareRequirements": { 
     "1": {
       "@type": "SoftwareApplication",
